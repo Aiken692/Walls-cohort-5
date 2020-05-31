@@ -1,5 +1,7 @@
 body {
-    background-color: rgb(206, 237, 66);
+    background-image: url("img_tree.png");
+    background-position: right top;
+    background-color: rgb(198, 240, 11);
 }
 
 h1 {
@@ -13,5 +15,9 @@ p  {
 }
 
 .para2 {
-    color: blue;
+    color: tomato;
+}
+
+#wal1 {
+    color: rgb(110, 22, 224);
 }
